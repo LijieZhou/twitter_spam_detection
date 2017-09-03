@@ -1,0 +1,10 @@
+Unsafe URL: [{testsafebrowsing.appspot.com/apiv4/ANY_PLATFORM/MALWARE/URL/ {MALWARE ANY_PLATFORM URL}}]
+Safe URL: http://google.com/apiv4/ANY_PLATFORM/MALWARE/URL/
+Unsafe URL: [{testsafebrowsing.appspot.com/apiv4/ANY_PLATFORM/MALWARE/URL/ {MALWARE ANY_PLATFORM URL}}]
+Safe URL: https://t.co/7Jk9IF9W4L/apiv4/ANY_PLATFORM/MALWARE/URL/
+Unsafe URL: [{testsafebrowsing.appspot.com/apiv4/ANY_PLATFORM/MALWARE/URL/ {MALWARE ANY_PLATFORM URL}}]
+Safe URL: https://t.co/7Jk9IF9W4L/apiv4/ANY_PLATFORM/MALWARE/URL/
+Unsafe URL: [{testsafebrowsing.appspot.com/apiv4/ANY_PLATFORM/MALWARE/URL/ {MALWARE ANY_PLATFORM URL}}]
+Safe URL: https://t.co/7Jk9IF9W4L/apiv4/ANY_PLATFORM/MALWARE/URL/
+Unsafe URL: [{testsafebrowsing.appspot.com/apiv4/ANY_PLATFORM/MALWARE/URL/ {MALWARE ANY_PLATFORM URL}}]
+Safe URL: https://t.co/7Jk9IF9W4L/apiv4/ANY_PLATFORM/MALWARE/URL/
